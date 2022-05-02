@@ -1,0 +1,6 @@
+<mod displayName="Neutral Win Animations" unique="NeutralWinAnimations" description="Replaces the dance animations and victory music from adventure win cinematics into something more neutral." installerSystemVersion="1.0.1.0" hasCustomInstaller="false" dllsBuild="2.5.20">
+<prerequisite>NeutralWinAnimations_2b.package</prerequisite>
+<remove game="GalacticAdventures">*NeutralWinAnimations*</remove>
+<remove game="Spore">*NeutralWinAnimations*</remove>
+<remove>*NeutralWinAnimations*</remove>
+</mod>
