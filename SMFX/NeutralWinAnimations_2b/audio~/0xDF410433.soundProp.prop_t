@@ -1,0 +1,10 @@
+float gain 0.75
+bool is3d false
+key musicTemplate 0x8BF4B9E5
+keys samples
+	0x0FA1066D
+	0xEA970A74
+	0x7783EB10
+	0xF0BAF70F
+end
+uint32 0xBA03D0CD 5
